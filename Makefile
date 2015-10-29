@@ -11,12 +11,12 @@ PROGNAME = IShedTheBloodOfTheSaxonMen
 
 # The object files you want to compile into your program
 # This should be a space (SPACE!) separated list of .o files
-OFILES = main.o gameover.o startscreen.o myLib.o humans.o playa.o saxonman.o LivesImg.o SaxonMenLeftImg.o one.o two.o three.o font.o text.o
+OFILES = main.o gameover.o startscreen.o myLib.o humans.o playa.o saxonman.o LivesImg.o one.o two.o three.o font.o text.o
 
 # The header files you have created.
 # This is necessary to determine when to recompile for files.
 # This should be a space (SPACE!) separated list of .h files
-HFILES = main.h gameover.h startscreen.h myLib.h humans.h playa.h saxonman.h LivesImg.h SaxonMenLeftImg.h one.h two.h three.h text.h
+HFILES = main.h gameover.h startscreen.h myLib.h humans.h playa.h saxonman.h LivesImg.h one.h two.h three.h text.h
 
 ################################################################################
 # These are various settings used to make the GBA toolchain work
