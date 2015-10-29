@@ -10,7 +10,6 @@
 #include "playa.h"
 #include "saxonman.h"
 #include "LivesImg.h"
-#include "SaxonMenLeftImg.h"
 #include "one.h"
 #include "two.h"
 #include "three.h"
